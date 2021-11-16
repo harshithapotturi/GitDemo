@@ -8,6 +8,7 @@ namespace GitDemo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Wekcome to Git World");
+            Console.WriteLine("Today is Tuesday");
         }
     }
 }
